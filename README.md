@@ -7,4 +7,4 @@ known_networks = [
 ]
 ```
 
-This tool will force network scanning and select top one in the list above.
+This tool will force network scanning and select top one available in the list above.
